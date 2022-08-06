@@ -1,0 +1,7 @@
+specVersion: '2.2'
+metadata:
+  name: thalesvb/nuke
+kind: extension
+type: task
+task:
+  path: lib/index.js

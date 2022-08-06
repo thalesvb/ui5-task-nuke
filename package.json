@@ -1,0 +1,41 @@
+{
+  "name": "@thalesvb/ui5-task-nuke",
+  "version": "0.0.1",
+  "description": "Nuke files during UI5 build",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "ui5",
+    "task",
+    "nuke",
+    "delete"
+  ],
+  "author": {
+    "name": "Thales Batista",
+    "url": "https://github.com/thalesvb"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/thalesvb/ui5-task-nuke#readme",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thalesvb/ui5-task-nuke"
+  },
+  "bugs": {
+    "url": "https://github.com/thalesvb/ui5-task-nuke/issues"
+  },
+  "files": [
+    "ui5.yaml",
+    "lib/"
+  ],
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
+}
