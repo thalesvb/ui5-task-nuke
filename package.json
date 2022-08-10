@@ -1,6 +1,6 @@
 {
   "name": "@thalesvb/ui5-task-nuke",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Nuke files during UI5 build",
   "scripts": {
     "lint": "eslint ."
